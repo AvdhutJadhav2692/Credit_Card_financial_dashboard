@@ -26,7 +26,7 @@ This dashboard helps stakeholders monitor financial health, track customer behav
 *   **Power BI Desktop:** For data visualization and dashboard creation.
 *   **DAX (Data Analysis Expressions):** Used for creating calculated columns and measures (e.g., Total Revenue, Total Interest).
 *   **Power Query:** For data cleaning, transformation, and ETL processes.
-*   **Data Source:** (e.g., SQL Server / CSV / Excel - *Update this based on your actual source*)
+*   **Data Source:** credit_card.csv
 
 
 ## 🛠️ How to Use
