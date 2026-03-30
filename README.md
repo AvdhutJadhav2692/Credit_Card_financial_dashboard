@@ -1,6 +1,3 @@
-# Credit_Card_financial_dashboard
-Power BI Dashboard
-
 # Credit Card Transaction Report - Power BI Dashboard
 ## 📋 Project Overview
 This project involves the creation of a comprehensive **Credit Card Transaction Report** using Power BI. The objective is to provide real-time insights into key performance indicators (KPIs) such as revenue, transaction volume, and interest earned, while segmenting the data by customer demographics, card categories, and expenditure types.
