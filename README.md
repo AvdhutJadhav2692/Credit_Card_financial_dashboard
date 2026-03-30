@@ -37,5 +37,3 @@ This dashboard helps stakeholders monitor financial health, track customer behav
 
 ## 👤 Author
 **Avdhut Jadhav**  
-2.  **Include a GIF:** Instead of a static image, use a screen recorder to show the dashboard's interactivity (filtering by quarter or gender).
-3.  **Data Cleaning:** Mention if you used Power Query to handle data types or merge tables.
